@@ -1,5 +1,6 @@
 body {
   padding-top: 50px;
+  color: black;
 }
 
 .profile {
@@ -10,6 +11,6 @@ body {
 
 .box {
   border: 1px solid black;
-  background: #94ccfc;
+  background: white;
   padding: 0 20px 0 20px;
 }
